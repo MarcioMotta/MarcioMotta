@@ -1,16 +1,13 @@
-## Hi there 👋
+## Boas Vindas ao meu perfil: 👋
 
-<!--
-**MarcioMotta/MarcioMotta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Meu nome é Marcio Motta
+- Estou estudando na [Alura](https://alura.com.br)!
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para organização e compartilhamento de projetos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Meu contato 📧
+
+marcio.motta@escola.pr.gov.br
+
+![](https://media.tenor.com/YRbLeRgNojAAAAAM/cheer-yes.gif)
